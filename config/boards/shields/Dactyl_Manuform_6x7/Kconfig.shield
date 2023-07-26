@@ -1,0 +1,2 @@
+config SHIELD_MANUFORM_6X7
+    def_bool $(shields_list_contains, Manuform_6x7)

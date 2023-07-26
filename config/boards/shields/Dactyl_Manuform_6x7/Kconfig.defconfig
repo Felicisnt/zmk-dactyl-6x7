@@ -1,0 +1,6 @@
+if SHIELD_MANUFORM_6X7
+
+config ZMK_KEYBOARD_NAME
+    default "Manuform_6x7"
+
+endif
